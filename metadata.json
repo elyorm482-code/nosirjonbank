@@ -1,0 +1,6 @@
+{
+  "name": "Apex Bank & Hodimlar Davomati",
+  "description": "Zamonaviy bank xizmatlari, tezkor pul o'tkazmalari, hisob boshqaruvi va hodimlar davomatini jonli monitoring qiluvchi admin paneli",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
